@@ -46,3 +46,4 @@ const handleWithTheGame = () => {
 //Adiciona o evento de click ao botão para chamar a função que pega as informações dos personagens
 button.addEventListener('click', handleWithTheGame)
 
+
